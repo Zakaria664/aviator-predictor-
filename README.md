@@ -1,4 +1,12 @@
-# aviator-predictor-import streamlit as st
+# ---
+
+### ✍🏽 To Edit in VS Code:
+1. Open the `README.md` file.
+2. Fix the line manually by:
+   - Giving a proper title with `#`
+      - Wrapping code in triple backticks (```python ... ```)
+      
+      Let me know if you'd like me to generate a full cleaned-up `README.md` for your project!aviator-predictor-import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
