@@ -6,7 +6,37 @@
    - Giving a proper title with `#`
       - Wrapping code in triple backticks (```python ... ```)
       
-      Let me know if you'd like me to generate a full cleaned-up `README.md` for your project!aviator-predictor-import streamlit as st
+      Let me know if you'd like me to generate a full cleaned-up `README.md` for your project!# ✈️ Aviator Predictor
+      
+      **Aviator Predictor** is a web-based application designed to help players track, analyze, and predict trends in the Aviator betting game using historical data visualization and simple AI logic.
+      
+      ---
+      
+      ## 📱 Screenshot Preview
+      
+      | Login Screen | Dashboard | Graph Analytics |
+      |--------------|-----------|-----------------|
+      | ![Login](https://via.placeholder.com/250x500.png?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/250x500.png?text=Dashboard) | ![Graph](https://via.placeholder.com/250x500.png?text=Graph+Analytics) |
+      
+      ---
+      
+      ## ⚙️ Features
+      
+      - 📈 Real-time graph trends
+      - 🧠 Bet prediction logic (basic AI)
+      - 🔐 User authentication
+      - 📊 Historical logs & statistics
+      - 💾 Export/Download CSV logs
+      - 📱 Mobile-optimized layout
+      
+      ---
+      
+      ## 🚀 Installation
+      
+      ```bash
+      git clone https://github.com/Zakaria664/aviator-predictor.git
+      cd aviator-predictor
+      python aviator_app.pyaviator-predictor-import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
