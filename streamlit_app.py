@@ -14,8 +14,7 @@ if st.button("Predict"):
 
 st.set_page_config(page_title="Aviator Predictor", page_icon="✈️")
 if st.button("Predict"):
-        prediction = predict(prev, rounds)
-            st.write(f"Prediction: {prediction}")
+@eamlit_app.p
 st.title("✈️ Aviator Predictor")
 st.write("Enter previous number(s) to predict the next:")
 
